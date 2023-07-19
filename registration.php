@@ -97,7 +97,7 @@
 
                             <div class="form-group">
                                 <label for="username"><i class="zmdi zmdi-account material-icons-name"></i></label>
-                                <input type="text" name="username" minlength="2" maxlength="32" id="name" placeholder="Enter username" required />
+                                <input type="text" name="username" minlength="2" maxlength="32" id="name" placeholder="Enter username here are the change" required />
                             </div>
 
                             <div class="form-group">
